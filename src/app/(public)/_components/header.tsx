@@ -40,7 +40,7 @@ export function Header(): JSX.Element {
             <SheetHeader></SheetHeader>
 
             <SheetDescription>
-              Veja nossos links
+              Acesse nossos links
             </SheetDescription>
 
             <nav>
